@@ -1,6 +1,6 @@
 {
-  "name": "lit-components-demo",
-  "version": "1.0.1",
+  "name": "@markandeyp/lit-components",
+  "version": "1.0.0",
   "description": "A Web Components library using Lit",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,9 @@
     "typescript": "^4.5.5",
     "webpack": "^5.69.1",
     "webpack-cli": "^4.9.2"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/markandeyp/lit-components.git"
   }
 }
