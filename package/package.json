@@ -1,6 +1,6 @@
 {
   "name": "@markandeyp/lit-components",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "A web-component library built using Lit Elements",
   "author": {
     "name": "Markandey Pathak",
