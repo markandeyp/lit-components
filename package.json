@@ -1,0 +1,28 @@
+{
+  "name": "lit-components-demo",
+  "version": "1.0.1",
+  "description": "A Web Components library using Lit",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "publish": "npm run build && cp ./package/* ./dist && cd ./dist && npm publish --access public"
+  },
+  "keywords": [
+    "Lit",
+    "Web",
+    "Components",
+    "Component",
+    "Library",
+    "UI",
+    "Components"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^7.2.0",
+    "lit": "^2.1.4",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.5",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}

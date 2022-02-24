@@ -1,0 +1,17 @@
+{
+  "name": "@markandeyp/lit-components",
+  "version": "1.2.0",
+  "description": "A web-component library built using Lit Elements",
+  "author": {
+    "name": "Markandey Pathak",
+    "email": "markandeypathak@live.com",
+    "url": "https://linkedin.com/in/markp91"
+  },
+  "keywords": [
+    "Lit",
+    "Web Components",
+    "Component Library"
+  ],
+  "main": "./index.js",
+  "license": "ISC"
+}
